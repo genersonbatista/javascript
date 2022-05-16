@@ -23,10 +23,9 @@ div{
     font-weight: bolder;
     text-align: center;
 }
-div#res{
-
+img{
+    padding-top: 20px;
 }
-
 
 footer {
     margin: auto;
